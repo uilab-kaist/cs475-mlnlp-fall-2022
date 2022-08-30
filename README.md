@@ -40,7 +40,7 @@ We decided not to approve requests for course addition. We ask for your kind und
 
 ## Materials
 
-- Recent NLP papers (especially from ACL, EMNLP, NAACL).
+- Recent NLP papers (especially from ACL, EMNLP, NAACL)
 - Recent ML papers (AAAI, ICML, IJCAI, NeurIPS, etc)
 - [Dan Jurafsky & James H. Martin, Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 
@@ -95,7 +95,7 @@ Sometimes (expect about 12 times during the semester), we will have a "quiz" in 
 ## Team Projects
 
 - You will form teams of *three or four*, and as a team, pick one NLP paper from ACL, EMNLP, NAACL, TACL, NeurIPS, ICML, and ICLR, published in 2019 to 2022, and replicate it. You will be required to change at least one thing -- dataset, model, or research question. More details will be given out during the first week of class.
-- https://uilab-kaist.github.io/cs475-mlnlp-fall-2022/project
+- [Link to project description](https://uilab-kaist.github.io/cs475-mlnlp-fall-2022/project)
 
 ## Evaluation
 Your grade will be a combination of the following:
