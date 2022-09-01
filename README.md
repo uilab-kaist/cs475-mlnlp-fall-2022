@@ -53,7 +53,7 @@ All the deadlines are 23:59 unless specified.
 |    1 | 2022.08.29 | Introduction to CS475                 |                     |                      |
 |    1 | 2022.08.31 | Introduction to NLP                   |                     |                      |
 |    2 | 2022.09.05 | Language Models                       |                     |                      |
-|    2 | 2022.09.07 | Language Models                       |                     | HW 1 Out             |
+|    2 | 2022.09.07 | Language Models                       | Submit Teams        | HW 1 Out             |
 |    3 | 2022.09.12 | Holiday                               | No Class            |                      |
 |    3 | 2022.09.14 | Text Classification                   |                     | HW 1 Due             |
 |    4 | 2022.09.19 | Text Classification                   |                     | HW 2 Out             |
