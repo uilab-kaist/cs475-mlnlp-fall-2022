@@ -90,7 +90,7 @@ All the deadlines are 23:59 unless specified.
 4. Ethics & Social Impact of NLP
 
 ## Attendance and Participation
-Sometimes (expect about 12 times during the semester), we will have a "quiz" in class. The grade will be 0 or 1, so if you turn in an answer, you will get credit. The format will be different for each class. If you miss up to 2 classes, there will be no penalty. After 2, points will be taken off. Because you can miss up to 2 for free, we will not take any excuses for missing the class (unless you have a special case, such as prolonged sickness, in which case you should email the teaching staff).
+Sometimes (expect about 10 times during the semester), we will have a "quiz" in class. The grade will be 0 or 1, so if you turn in an answer, you will get credit. The format will be different for each class. If you miss up to 2 classes, there will be no penalty. After 2, points will be taken off. Because you can miss up to 2 for free, we will not take any excuses for missing the class (unless you have a special case, such as prolonged sickness, in which case you should email the teaching staff).
 
 ## Team Projects
 
