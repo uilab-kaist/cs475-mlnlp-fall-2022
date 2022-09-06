@@ -48,43 +48,43 @@ We decided not to approve requests for course addition. We ask for your kind und
 
 All the deadlines are 23:59 unless specified.
 
-| Week | Date       | Topic                                 | Notes               | Homework             |
-|------|------------|---------------------------------------|---------------------|----------------------|
-|    1 | 2022.08.29 | Introduction to CS475                 |                     |                      |
-|    1 | 2022.08.31 | Introduction to NLP                   |                     |                      |
-|    2 | 2022.09.05 | Language Models                       |                     |                      |
-|    2 | 2022.09.07 | Language Models                       | Submit Teams        | HW 1 Out             |
-|    3 | 2022.09.12 | Holiday                               | No Class            |                      |
-|    3 | 2022.09.14 | Text Classification                   |                     | HW 1 Due             |
-|    4 | 2022.09.19 | Text Classification                   |                     | HW 2 Out             |
-|    4 | 2022.09.21 | RNN                                   |                     |                      |
-|    5 | 2022.09.26 | Project Proposal                      |                     | HW 2 Due             |
-|    5 | 2022.09.28 | Project Proposal                      |                     |                      |
-|    6 | 2022.10.03 | Holiday                               | No Class            |                      |
-|    6 | 2022.10.05 | Transformers and BERT                 |                     | HW 3 Out             |
-|    7 | 2022.10.10 | Holiday                               | No Class            |                      |
-|    7 | 2022.10.12 | Transformers and BERT                 |                     | HW 3 Due             |
-|    8 | 2022.10.17 | Midterm                               | No Class            |                      |
-|    8 | 2022.10.19 | Midterm                               | No Class            |                      |
-|    9 | 2022.10.24 | Datasets and Evaluation               |                     | HW 4 Out             |
-|    9 | 2022.10.26 | Ethics and Social Impact of NLP       |                     |                      |
-|   10 | 2022.10.31 | Sentiment & Emotions                  |                     | HW 4 Due             |
-|   10 | 2022.11.02 | Question Answering                    |                     |                      |
-|   11 | 2022.11.07 | Project Progress                      | Record & Upload     |                      |
-|   11 | 2022.11.09 | Project Progress                      | Record & Upload     |                      |
-|   12 | 2022.11.14 | Machine Translation & Multilinguality |                     |                      |
-|   12 | 2022.11.16 | Generative Models                     |                     |                      |
-|   13 | 2022.11.21 | Dialogue Models                       |                     |                      |
-|   13 | 2022.11.23 | Multimodal Models                     |                     |                      |
-|   14 | 2022.11.28 | Wrap-up                               | Recorded Class      |                      |
-|   14 | 2022.11.30 | Undergraduate Admissions              | No Class            |                      |
-|   15 | 2022.12.05 | Final Presentation                    | Record & Upload     |                      |
-|   15 | 2022.12.07 | Final Presentation                    | Record & Upload     |                      |
-|   16 | 2022.12.12 | Final Exam (Final Report Due)         | No Class            |                      |
-|   16 | 2022.12.14 | Final Exam                            | No Class            |                      |
+| Week | Date       | Topic                                 | Notes                    | Homework             |
+|------|------------|---------------------------------------|--------------------------|----------------------|
+|    1 | 2022.08.29 | Introduction to CS475                 |                          |                      |
+|    1 | 2022.08.31 | Introduction to NLP                   |                          |                      |
+|    2 | 2022.09.05 | Language Models                       |                          |                      |
+|    2 | 2022.09.07 | Language Models                       | Submit Teams             | HW 1 Out             |
+|    3 | 2022.09.12 | Holiday                               | No Class                 |                      |
+|    3 | 2022.09.14 | Text Classification                   | Deadline to Submit Teams | HW 1 Due             |
+|    4 | 2022.09.19 | Text Classification                   |                          | HW 2 Out             |
+|    4 | 2022.09.21 | RNN                                   |                          |                      |
+|    5 | 2022.09.26 | Project Proposal                      |                          | HW 2 Due             |
+|    5 | 2022.09.28 | Project Proposal                      |                          |                      |
+|    6 | 2022.10.03 | Holiday                               | No Class                 |                      |
+|    6 | 2022.10.05 | Transformers and BERT                 |                          | HW 3 Out             |
+|    7 | 2022.10.10 | Holiday                               | No Class                 |                      |
+|    7 | 2022.10.12 | Transformers and BERT                 |                          | HW 3 Due             |
+|    8 | 2022.10.17 | Midterm                               | No Class                 |                      |
+|    8 | 2022.10.19 | Midterm                               | No Class                 |                      |
+|    9 | 2022.10.24 | Datasets and Evaluation               |                          | HW 4 Out             |
+|    9 | 2022.10.26 | Ethics and Social Impact of NLP       |                          |                      |
+|   10 | 2022.10.31 | Sentiment & Emotions                  |                          | HW 4 Due             |
+|   10 | 2022.11.02 | Question Answering                    |                          |                      |
+|   11 | 2022.11.07 | Project Progress                      | Record & Upload          |                      |
+|   11 | 2022.11.09 | Project Progress                      | Record & Upload          |                      |
+|   12 | 2022.11.14 | Machine Translation & Multilinguality |                          |                      |
+|   12 | 2022.11.16 | Generative Models                     |                          |                      |
+|   13 | 2022.11.21 | Dialogue Models                       |                          |                      |
+|   13 | 2022.11.23 | Multimodal Models                     |                          |                      |
+|   14 | 2022.11.28 | Wrap-up                               | Recorded Class           |                      |
+|   14 | 2022.11.30 | Undergraduate Admissions              | No Class                 |                      |
+|   15 | 2022.12.05 | Final Presentation                    | Record & Upload          |                      |
+|   15 | 2022.12.07 | Final Presentation                    | Record & Upload          |                      |
+|   16 | 2022.12.12 | Final Exam (Final Report Due)         | No Class                 |                      |
+|   16 | 2022.12.14 | Final Exam                            | No Class                 |                      |
 
 ## Homeworks (Subject to Change)
-1. Language Models
+1. N-gram Bag-of-Words
 2. RNN Family
 3. BERT
 4. Ethics & Social Impact of NLP
