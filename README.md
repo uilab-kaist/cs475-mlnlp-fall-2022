@@ -52,13 +52,13 @@ All the deadlines are 23:59 unless specified.
 |------|------------|---------------------------------------|--------------------------|----------------------|
 |    1 | 2022.08.29 | Introduction to CS475                 |                          |                      |
 |    1 | 2022.08.31 | Introduction to NLP                   |                          |                      |
-|    2 | 2022.09.05 | Language Models                       |                          |                      |
-|    2 | 2022.09.07 | Language Models                       | Submit Teams             | HW 1 Out             |
+|    2 | 2022.09.05 | Language Models                       | Ch 3 of SLP book         |                      |
+|    2 | 2022.09.07 | Language Models & Word Vectors        | Ch 6 of SLP book         | HW 1 Out             |
 |    3 | 2022.09.12 | Holiday                               | No Class                 |                      |
-|    3 | 2022.09.14 | Text Classification                   | Deadline to Submit Teams | HW 1 Due             |
+|    3 | 2022.09.14 | Word Vectors                          | Deadline to Submit Teams | HW 1 Due             |
 |    4 | 2022.09.19 | Text Classification                   |                          | HW 2 Out             |
-|    4 | 2022.09.21 | RNN                                   |                          |                      |
-|    5 | 2022.09.26 | Project Proposal                      |                          | HW 2 Due             |
+|    4 | 2022.09.21 | Text Classification                   |                          |                      |
+|    5 | 2022.09.26 | Wrap-up Word Vectors & RNN            |                          | HW 2 Due             |
 |    5 | 2022.09.28 | Project Proposal                      |                          |                      |
 |    6 | 2022.10.03 | Holiday                               | No Class                 |                      |
 |    6 | 2022.10.05 | Transformers and BERT                 |                          | HW 3 Out             |
