@@ -58,10 +58,10 @@ All the deadlines are 23:59 unless specified.
 |    3 | 2022.09.14 | Word Vectors                          | Deadline to Submit Teams | HW 1 Due             |
 |    4 | 2022.09.19 | Text Classification                   |                          | HW 2 Out             |
 |    4 | 2022.09.21 | Text Classification                   |                          |                      |
-|    5 | 2022.09.26 | Wrap-up Word Vectors & RNN            |                          | HW 2 Due             |
+|    5 | 2022.09.26 | Project Proposal                      |                          | HW 2 Due             |
 |    5 | 2022.09.28 | Project Proposal                      |                          |                      |
 |    6 | 2022.10.03 | Holiday                               | No Class                 |                      |
-|    6 | 2022.10.05 | Transformers and BERT                 |                          | HW 3 Out             |
+|    6 | 2022.10.05 | Wrap-up NN and RNN                    |                          | HW 3 Out             |
 |    7 | 2022.10.10 | Holiday                               | No Class                 |                      |
 |    7 | 2022.10.12 | Transformers and BERT                 |                          | HW 3 Due             |
 |    8 | 2022.10.17 | Midterm                               | No Class                 |                      |
